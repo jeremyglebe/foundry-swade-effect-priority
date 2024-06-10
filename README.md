@@ -1,0 +1,1 @@
+Module Manifest (for installing): [https://github.com/jeremyglebe/foundry-swade-effect-priority/releases/latest/download/module.json](https://github.com/jeremyglebe/foundry-swade-effect-priority/releases/latest/download/module.json)

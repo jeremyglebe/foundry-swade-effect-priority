@@ -1,0 +1,25 @@
+{
+  "id": "swade-effect-priority",
+  "title": "SWADE Effect Priorities",
+  "description": "Exposes the priority property for changes in Active Effects.",
+  "authors": [
+    {
+      "name": "Jeremy Glebe",
+      "email": "jeremyglebe@gmail.com"
+    }
+  ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": ["scripts/module.js"]
+}
